@@ -1,0 +1,61 @@
+body{
+  background-color: pink;
+}
+
+h1{
+  text-align: center;
+}
+
+h3{
+  margin: 0.5em;
+}
+
+form{
+  text-align: left;
+  padding: 2em;
+}
+
+input{
+  border-style: double;
+  margin: 1em;
+  border-color: grey;
+}
+
+img{
+  width: 40vw;
+  height: auto;
+  margin: 2em;
+}
+
+.card {
+  height: 60vh;
+  width: 60vw;
+  border-radius: 5px;
+  padding: 1em;
+  margin: 5vh auto;
+  overflow: scroll;
+  text-align: center;
+  background-color: white;
+}
+
+.row{
+  text-align: center;
+  margin: auto;
+  align-content:center;
+}
+
+.outer{
+
+}
+
+form #ingredients{
+  width: 25em;
+  height: 15em;
+  margin: 1em;
+}
+
+form #method{
+  width: 25em;
+  height:15em;
+  margin: 1em;
+}
